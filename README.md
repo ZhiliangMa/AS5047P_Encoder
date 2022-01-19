@@ -44,25 +44,25 @@
 
 ## 可安装电机，适配孔位，板型二维图
 
-![AS5047P_PCB_42step_an](image/AS5047P_PCB_42step_an.jpg)
+![AS5047P_PCB_42step_an](image/AS5047P_PCB_42step_an.png)
 
-![AS5047P_PCB_57step_an](image/AS5047P_PCB_57step_an.jpg)
+![AS5047P_PCB_57step_an](image/AS5047P_PCB_57step_an.png)
 
-![AS5047P_PCB_2208_2212_2216_an](image/AS5047P_PCB_2208_2212_2216_an.jpg)
+![AS5047P_PCB_2208_2212_2216_an](image/AS5047P_PCB_2208_2212_2216_an.png)
 
-![AS5047P_PCB_3508_3510_4208_5008](image/AS5047P_PCB_3508_3510_4208_5008.jpg)
+![AS5047P_PCB_3508_3510_4208_5008](image/AS5047P_PCB_3508_3510_4208_5008.png)
 
-![AS5047P_PCB_6010_an](image/AS5047P_PCB_6010_an.jpg)
+![AS5047P_PCB_6010_an](image/AS5047P_PCB_6010_an.png)
 
-![AS5047P_PCB_6354x64x74x84](image/AS5047P_PCB_6354x64x74x84.jpg)
+![AS5047P_PCB_6354x64x74x84](image/AS5047P_PCB_6354x64x74x84.png)
 
-![AS5047P_PCB_dji3512wu_an](image/AS5047P_PCB_dji3512wu_an.jpg)
+![AS5047P_PCB_dji3512wu_an](image/AS5047P_PCB_dji3512wu_an.png)
 
-![AS5047P_PCB_e6b2_an](image/AS5047P_PCB_e6b2_an.jpg)
+![AS5047P_PCB_e6b2_an](image/AS5047P_PCB_e6b2_an.png)
 
-![AS5047P_PCB_heng](image/AS5047P_PCB_heng.jpg)
+![AS5047P_PCB_heng](image/AS5047P_PCB_heng.png)
 
-![AS5047P_PCB_zong](image/AS5047P_PCB_zong.jpg)
+![AS5047P_PCB_zong](image/AS5047P_PCB_zong.png)
 
 <br>
 
