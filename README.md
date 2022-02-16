@@ -85,6 +85,8 @@
 
 [AS5047P磁编码器ESP32驱动程序、硬件电路设计、SPI通信时序、逻辑波形分析、注意事项](https://blog.csdn.net/Mark_md/article/details/119645201?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164166922716780261920995%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=164166922716780261920995&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-1-119645201.nonecase&utm_term=5047&spm=1018.2226.3001.4450)
 
-## Stargazers over time 
 
-[![Stargazers over time](https://starchart.cc/ZhiliangMa/AS5047P_Encoder.svg)](https://starchart.cc/ZhiliangMa/AS5047P_Encoder)   
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ZhiliangMa/AS5047P_Encoder.svg)](https://starchart.cc/ZhiliangMa/AS5047P_Encoder)
+
